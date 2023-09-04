@@ -1,10 +1,10 @@
 > Notar que **X** corresponde al número del grupo asignado.
 
-# Grupo x
+# Grupo 15
 
 Este es el repositorio del *Grupo X*, cuyos integrantes son:
 
-* Integrante 1 - Rol
+* Cristobal Guerrero - Rol:202173586-0
 * Integrante 2 - Rol
 * Integrante 3 - Rol
 * **Tutor**: Nombre Tutor
