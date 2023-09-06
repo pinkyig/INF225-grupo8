@@ -1,4 +1,3 @@
-> Notar que **X** corresponde al número del grupo asignado.
 
 # Grupo 15
 
@@ -19,8 +18,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.
 
 > Reemplazar con los enlaces correspondientes
 
-* [Video presentación cliente](https://www.youtube.com)
-* [Video presentación avance 1](https://www.youtube.com/)
+* [Video presentación 1](https://www.youtube.com/watch?v=y1Tg63zPfs4&ab_channel=GonzaloGutierrez)
 * Etc ...
 
 ## Aspectos técnicos relevantes
