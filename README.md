@@ -4,7 +4,7 @@
 Este es el repositorio del *Grupo X*, cuyos integrantes son:
 
 * Cristobal Guerrero - Rol:202173586-0
-* Integrante 2 - Rol
+* Gonzalo Gutiérrez - Rol:202173604-2
 * Integrante 3 - Rol
 * **Tutor**: Nombre Tutor
 
