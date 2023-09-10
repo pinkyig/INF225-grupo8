@@ -1,9 +1,9 @@
 
 # Grupo 15
 
-* Cristobal Guerrero    - Rol:202173586-0
-* Gonzalo Gutiérrez     - Rol:202173604-2
-* Nicolás Vergara       - Rol:202130538-6
+* Cristobal Guerrero    - Rol: 202173586-0
+* Gonzalo Gutiérrez     - Rol: 202173604-2
+* Nicolás Vergara       - Rol: 202130538-6
 * **Tutor**: Alexis Henriquez
 
 ## Wiki
