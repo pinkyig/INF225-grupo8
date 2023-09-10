@@ -4,11 +4,11 @@
 * Cristobal Guerrero    - Rol:202173586-0
 * Gonzalo Gutiérrez     - Rol:202173604-2
 * Nicolás Vergara       - Rol:202130538-6
-* **Tutor**: Nombre Tutor
+* **Tutor**: Alexis Henriquez
 
 ## Wiki
 
- * [enlace a la wiki](https://github.com/Nachops/INF236P201G15/wiki)
+ * [Enlace a la wiki](https://github.com/Nachops/INF236P201G15/wiki)
 
 ## Videos
 
