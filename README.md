@@ -12,7 +12,8 @@
 
 ## Videos
 
-* [Video presentación 1](https://www.youtube.com/watch?v=y1Tg63zPfs4&ab_channel=GonzaloGutierrez)
+* [Video hito 1](https://www.youtube.com/watch?v=y1Tg63zPfs4&ab_channel=GonzaloGutierrez)
+* [Video hito 4: prototipo de HU](https://youtu.be/xWTwkPOJpjI)
 
 ## Aspectos técnicos relevantes
 
