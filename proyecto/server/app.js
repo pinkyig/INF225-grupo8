@@ -6,31 +6,31 @@ const morgan = require("morgan");
 
 const db = require("./Database");
 
-async function ObtenerInformacionTabla(cliente){
+const ObtenerDatos = async () => {
+    try {
+        const resultado = await fichas.find({
+            especialidad:"Imagenologia"
+        });
 
-	const resultado = await cliente.db("BD-hospital").collection("horarios").find({
+      
+        const estructura = resultado.map(item => ({
+            Rut: item.especialidad,
+            Examen: item.tipo_examen,
+            Hora: item.hora
+        }));
 
-		especialidad:"Imagenologia"
-		
-	})
+        estructura.forEach(item => {
+            console.log(item.Rut);
+            console.log(item.Examen);
+            console.log(item.Hora);
 
-	const arreglo = await resultado.toArray();
+        });
+    } catch (error) {
+        console.error("Error al obtener datos:", error);
+    }
+};
 
-	const estructura = arreglo.map(arreglo => ({
-
-		Rut: arreglo.especialidad,
-		Examen: arreglo.tipo_examen,
-		Hora: arreglo.hora
-
-	}));
-
-	estructura.forEach(item => {
-
-		console.log(item.Rut);
-		console.log(item.Examen);
-		console.log(item.Hora);
-	})
-}
+ObtenerDatos()
 
 
 const app = express();
