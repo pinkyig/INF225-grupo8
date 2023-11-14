@@ -8,7 +8,7 @@ const db = require("./Database");
 
 const ObtenerDatos = async () => {
     try {
-        const resultado = await fichas.find({
+        const resultado = await horarios.find({
             especialidad:"Imagenologia"
         });
 
