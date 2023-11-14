@@ -1,34 +1,6 @@
 import './App.css';
 import react, {useState} from 'react';
 
-async function ObtenerInformacionTabla(cliente){
-
-	const resultado = await cliente.db("BD-hospital").collection("horarios").find({
-
-		especialidad:"Imagenologia"
-		
-	})
-
-	const arreglo = await resultado.toArray();
-
-	const estructura = arreglo.map(arreglo => ({
-
-		Rut: arreglo.especialidad,
-		Examen: arreglo.tipo_examen,
-		Hora: arreglo.hora,
-
-	}));
-
-	estructura.forEach(item => {
-
-		console.log(item.Rut);
-		console.log(item.Examen);
-		console.log(item.Hora);
-	})
-}
-
-
-
 
 function App() {
   
