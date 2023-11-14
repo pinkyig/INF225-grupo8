@@ -17,4 +17,4 @@
 
 ## Aspectos técnicos relevantes
 
-_Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado_
+* Los avances de la entrega 5 se encuentran en el branch master
