@@ -18,4 +18,4 @@
 ## Aspectos técnicos relevantes
 
 * Los avances de la entrega 5 se encuentran en el branch master
-* el proyecto final se encuentra en el branch final
+* el proyecto final se encuentra en el branch final , en el cual descargaremos las carpetas y las dejaremos juntas para luego con la terminal ubicarnos en la carpeta client y usaremos el comando 'npm audit fix --force' dos veces para tener todas los achivos de react operando , luego dentro de la misma carpeta usamos el comando 'npm start' , para iniciar el progrma.
