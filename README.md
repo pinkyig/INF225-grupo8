@@ -18,3 +18,4 @@
 ## Aspectos técnicos relevantes
 
 * Los avances de la entrega 5 se encuentran en el branch master
+* el proyecto final se encuentra en el branch final
