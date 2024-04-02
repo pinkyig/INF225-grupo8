@@ -9,7 +9,7 @@
 
 ## Wiki
 
- * [Enlace a la wiki](https://github.com/Nachops/INF236P201G15/wiki)
+ * [Enlace a la wiki]([https://github.com/Nachops/INF236P201G15/wiki](https://github.com/pinkyig/INF225-grupo8/wiki))
 
 ## Videos
 
