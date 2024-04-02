@@ -5,7 +5,8 @@
 * lilly Guevera     - Rol: 202173596-8
 * Alejandro Rojas    - Rol: 
 * Camila Rosales     - Rol: 202173631-k
-* **Tutor**: Ricardo Salas Leterier
+* **Tutores**: Ricardo Salas Leterier (profesor paralelo)
+* Maximiliano Sepúlveda (ayudante)
 
 ## Wiki
 
