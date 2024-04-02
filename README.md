@@ -2,9 +2,9 @@
 # Grupo 8
 
 * Cristobal Guerrero    - Rol: 202173586-0
-* lilly Guevera     - Rol:
+* lilly Guevera     - Rol: 202173596-8
 * Alejandro Rojas    - Rol: 
-* Camila Rosales     - Rol:
+* Camila Rosales     - Rol: 202173631-k
 * **Tutor**: Ricardo Salas Leterier
 
 ## Wiki
