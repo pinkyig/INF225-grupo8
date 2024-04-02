@@ -3,7 +3,7 @@
 
 * Cristobal Guerrero    - Rol: 202173586-0
 * lilly Guevera     - Rol: 202173596-8
-* Alejandro Rojas    - Rol: 
+* Alejandro Rojo    - Rol:  202130524-6
 * Camila Rosales     - Rol: 202173631-k
 * **Tutores**: Ricardo Salas Leterier (profesor paralelo)
 * Maximiliano Sepúlveda (ayudante)
