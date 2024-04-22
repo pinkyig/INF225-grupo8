@@ -8,7 +8,11 @@ const horaSchema = new mongoose.Schema({
     fecha: String,
     hora: String,
     rut: String,
-    tipo_examen: String
+    tipo_examen: String,
+    estado: String,
+    motivo: String,
+    derivado: String,
+    Fonasa: String
 },
     {
         collection: 'horarios',
