@@ -1,9 +1,12 @@
 const { Router } = require("express");
 const router = Router();
 
-const { getHoras } = require("../Controllers/horas.controllers");
+const { getHoraByRut , getHoras } = require("../Controllers/horas.controllers");
 
 router.route('/')
-    .get(getHoras)
+    .get(getHoras);
+
+router.route('/:rut')
+    .get(getHoraByRut)
 
 module.exports = router;
