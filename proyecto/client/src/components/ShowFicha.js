@@ -15,6 +15,7 @@ const ShowFicha = ({ rut }) => {
                 const res = await axios.get(`http://localhost:5000/api/ficha/${rut}`);
                 setFichaData(res.data);
             } catch (error) {
+                
                 console.error('Error al obtener la ficha:', error);
             }
         };
