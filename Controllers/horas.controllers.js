@@ -3,7 +3,7 @@ const { Types: { ObjectId } } = require('mongoose');
 const Hora = require("../Models/Hora");
 
 horaCtrl.getHoras = async (req, res) => {
-    const horas = await Hora.find().sort({ hora: 'desc' });
+    const horas = await Hora.find({especialidad :'Imagenología'}).sort({ hora: 'desc'});
     res.json(horas);
 }
 
