@@ -18,6 +18,10 @@
 * [Video hito 4: prototipo de HU](https://youtu.be/xWTwkPOJpjI)
 * [Video hito 6-7: entrega final](https://youtu.be/-ImdWl3U6fs)
 
+## [Nuevos] Videos
+* [Video hito 4: Video Explicativo](https://youtu.be/HKgRklyz_E8)
+
+
 ## Aspectos técnicos relevantes
 
 * Los avances de la entrega 5 se encuentran en el branch master
