@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { Modal, Button } from 'react-bootstrap';
+import PropTypes from 'prop-types';
 
 const LlamarPaciente = ({ hora }) => {
 
     const [show, setShow] = useState(false);
-
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 
@@ -24,7 +24,7 @@ const LlamarPaciente = ({ hora }) => {
                     <Modal.Title>Paciente en camino</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <p>El paciente fue llamado desde recepción.</p>
+                    <p>El paciente fue llamado desde la recepción a las {hora}.</p>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant='primary' onClick={handleClose}>
@@ -36,4 +36,10 @@ const LlamarPaciente = ({ hora }) => {
     );
 };
 
+LlamarPaciente.propTypes = {
+    hora: PropTypes.string.isRequired,
+};
+
+
 export default LlamarPaciente;
+
