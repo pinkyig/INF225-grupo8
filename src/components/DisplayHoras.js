@@ -38,7 +38,7 @@ export default class DisplayHoras extends Component {
                                     <td>{hora.rut}</td>
                                     <td>{hora.tipo_examen}</td>
                                     <td className='d-flex justify-content-around'>
-                                        <LlamarPaciente />
+                                        <LlamarPaciente hora={hora.hora}/>
                                         <ShowFicha rut={hora.rut} />
                                         <BorrarHora id={hora._id} />
                                     </td>
@@ -53,3 +53,4 @@ export default class DisplayHoras extends Component {
 
 
 }
+
