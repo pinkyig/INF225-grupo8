@@ -46,9 +46,14 @@ const ShowFicha = ({ rut }) => {
                             <p>Rut: {fichaData.rut}</p>
                             <p>Alergias: {fichaData.alergias || 'No presenta'}</p>
                             <p>Operaciones: {fichaData.operaciones || 'No presenta'}</p>
-                            <p>Diagnósticos anteriores : {<ul>
-                                {fichaData.diagnosticos_ant.map(item => <li>{item}</li>)}
-                            </ul> || 'No presenta'}</p>
+                            <p>Diagnósticos anteriores : {
+                                fichaData.diagnosticos_ant && fichaData.diagnosticos_ant.length > 0 ? (
+                                    <ul>
+                                        {fichaData.diagnosticos_ant.map(item => <li key={item.id}>{item}</li>)}
+                                    </ul>
+                                ) : 'No presenta'
+                            }
+                            </p>
                         </div>
                     ) : (
                         <p>Cargando datos...</p>
