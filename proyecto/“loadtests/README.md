@@ -79,18 +79,3 @@ La prueba realizada en JMeter consiste en enviar múltiples solicitudes GET a un
 
 3. **Recursos Adecuados:** El servidor tiene suficientes recursos (CPU, memoria, ancho de banda) para manejar la carga aumentada. Aunque el aumento en las solicitudes genera una mayor demanda de recursos, estos no se agotan y el servidor sigue funcionando correctamente.
 
-
-
-
-
-
-
-
-## Instalación
-
-Para instalar este proyecto, sigue estos pasos:
-
-```bash
-git clone https://github.com/usuario/proyecto-ejemplo.git
-cd proyecto-ejemplo
-
